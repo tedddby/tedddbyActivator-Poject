@@ -7,14 +7,14 @@ This repository serves as the main hub for the open-source version of the projec
 
 The project is structured across multiple repositories:
 
-- 🔧 **[Main Website / Reselling Website Source Code](https://github.com/tedddby/tedddbyActivator-SiteRoot-Source)**  
-  User interface and interaction logic.
+- 🔧 **[Main Website](https://github.com/tedddby/tedddbyActivator-SiteRoot-Source)**  
+  tedddby main website where users select the sevice they want and pay for it.
 
 - 🔧 **[Reselling Website Source Code](https://github.com/tedddby/tedddbyActivator-ResellSite-Source)**  
-  User interface and interaction logic.
+  Reselling site for user who have subscriptions with tedddbyActivator.
 
 - ⚙️ **[Backend Logic](https://github.com/tedddby/tedddbyActivator-API-Source)**  
-  Core logic and device communication handling.
+  Core logic and device communication handling between server and client application.
 
 > C# Desktop application will soon be published.
 
