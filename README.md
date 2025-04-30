@@ -16,9 +16,7 @@ The project is structured across multiple repositories:
 - ⚙️ **[Backend Logic](https://github.com/tedddby/tedddbyActivator-API-Source)**  
   Core logic and device communication handling.
 
-  C# Desktop application will soon be published.
-  
-  Shell scripts, checkra1n helpers, and automation tools.
+> C# Desktop application will soon be published.
 
 > Make sure to clone all required repos if you're building locally.
 
