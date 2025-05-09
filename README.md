@@ -44,7 +44,7 @@ It is **not intended for misuse**, and should only be studied or adapted by indi
 
 ## 🎥 Related Videos
 
-> One of the popular videos made with the tedddbyActivator App:l
+> One of the popular videos made with the tedddbyActivator App:
 
 [![Video 1](https://img.youtube.com/vi/au5tAawFahc/0.jpg)](https://www.youtube.com/watch?v=au5tAawFahc&t=2s)
 
