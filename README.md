@@ -39,3 +39,13 @@ This project is being shared as a **legacy, non-functional educational reference
 It is **not intended for misuse**, and should only be studied or adapted by individuals who are authorized to work on the devices in question.
 
 > The goal of this release is to **help others understand the technical and business aspects** of this type of tool—not to encourage unauthorized access.
+
+---
+
+## 🎥 Related Videos
+
+> One of the popular videos made with the tedddbyActivator App:
+
+[![Video 1](https://img.youtube.com/vi/au5tAawFahc/0.jpg)](https://www.youtube.com/watch?v=au5tAawFahc&t=2s)
+
+[![Video 2](https://img.youtube.com/vi/aivXm3-AqSY/0.jpg)](https://www.youtube.com/watch?v=aivXm3-AqSY)
