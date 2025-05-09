@@ -24,7 +24,8 @@ This project is composed of several repositories that together reflect the full 
 - 💳 **[Stripe Webhook Handler](https://github.com/tedddby/tedddbyActivator-PEXISTORE-Source)**  
   A masking site that identified as a web hosting provider for payment compliance.
 
-> A C# desktop application version is also planned to be published soon.
+- 🖥️ **[C# Client App](https://github.com/tedddby/tedddbyActivator-Client-App/)**  
+  Desktop application that communicates with the backend API mentioned above.
 
 > If you're exploring or studying this project, make sure to review all related repositories.
 
