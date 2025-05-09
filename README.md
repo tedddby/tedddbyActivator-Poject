@@ -1,36 +1,36 @@
 # tedddbyActivator
 
-**tedddbyActivator** is an iCloud bypass tool designed for jailbroken iOS devices.  
-This repository serves as the main hub for the open-source version of the project.
+**tedddbyActivator** is a legacy iCloud bypass tool built for jailbroken iOS devices.  
+This open-source release serves as a knowledge base for understanding the inner workings of such a system, originally created four years ago.
 
-## 📦 Repositories
+> ⚠️ This project has been patched by Apple and is no longer functional. It is open-sourced **strictly for educational purposes**.
 
-The project is structured across multiple repositories:
+## 📦 Repositories Overview
+
+This project is composed of several repositories that together reflect the full ecosystem:
 
 - 🔧 **[Main Website](https://github.com/tedddby/tedddbyActivator-SiteRoot-Source)**  
-  tedddby main website where users select the sevice they want and pay for it.
+  The original service website where users selected services and made payments.
 
-- 🔧 **[Reselling Website Source Code](https://github.com/tedddby/tedddbyActivator-ResellSite-Source)**  
-  Reselling site for user who have subscriptions with tedddbyActivator.
+- 🎨 **[New Website UI (Cancelled)](https://github.com/tedddby/teddit.pro)**  
+  An updated version of the main website with a redesigned interface (never launched).
 
-- ⚙️ **[Backend Logic](https://github.com/tedddby/tedddbyActivator-API-Source)**  
-  Core logic and device communication handling between server and client application.
+- 🔁 **[Reseller Platform](https://github.com/tedddby/tedddbyActivator-ResellSite-Source)**  
+  Used by authorized resellers with subscription access to offer services.
 
-> C# Desktop application will soon be published.
+- ⚙️ **[Backend API](https://github.com/tedddby/tedddbyActivator-API-Source)**  
+  Core backend logic and communication layer between client tools and the server.
 
-> Make sure to clone all required repos if you're building locally.
+- 💳 **[Stripe Webhook Handler](https://github.com/tedddby/tedddbyActivator-PEXISTORE-Source)**  
+  A masking site that identified as a web hosting provider for payment compliance.
 
-## 🛠️ Setup
+> A C# desktop application version is also planned to be published soon.
 
-1. Clone the repositories listed above.
-2. Follow setup instructions in each repo’s individual README.
-3. Run the backend first, then the frontend interface.
-4. Connect your jailbroken device and follow the UI prompts.
+> If you're exploring or studying this project, make sure to review all related repositories.
 
-## 📜 License
+## 📜 License & Disclaimer
 
-This project is shared for educational purposes only.  
-Use responsibly and only on devices you own or are authorized to service.
+This project is being shared as a **legacy, non-functional educational reference**.  
+It is **not intended for misuse**, and should only be studied or adapted by individuals who are authorized to work on the devices in question.
 
----
-
+> The goal of this release is to **help others understand the technical and business aspects** of this type of tool—not to encourage unauthorized access.
