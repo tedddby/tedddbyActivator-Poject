@@ -1,4 +1,6 @@
-![tedddbyActivator Interface](https://images.wootechy.com/article/tedddby-activator-interface.png)
+<p align="center">
+  <img src="https://i.imgur.com/bdPxVgQ.png" alt="tedddbyActivator Interface" />
+</p>
 
 # tedddbyActivator
 
