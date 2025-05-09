@@ -42,6 +42,14 @@ It is **not intended for misuse**, and should only be studied or adapted by indi
 
 ---
 
+## 📬 Community & Contact
+
+- 📢 Telegram Channel: [@tedddbyActivator](https://t.me/tedddbyActivator)  
+- 💬 Telegram Group: [@tedditActivator](https://t.me/tedditActivator)  
+- 👤 Personal Contact: [@tedddby](https://t.me/tedddby)
+
+---
+
 ## 🎥 Related Videos
 
 > One of the popular videos made with the tedddbyActivator App:
